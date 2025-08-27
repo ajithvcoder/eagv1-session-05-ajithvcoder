@@ -80,7 +80,7 @@ Method
 
 ### Results
 
-- [Youtube Video Link]()
+- [Youtube Video Link](https://youtu.be/P5PXSC0ldxc)
 
 **Prompt validation from chatgpt**
 
@@ -108,5 +108,5 @@ Method
 
 **Logs**
 
-[Link Here](./assets/run.log)
+- [Link Here](./assets/run.log)
 
